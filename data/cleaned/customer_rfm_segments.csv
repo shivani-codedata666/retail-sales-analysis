@@ -1,0 +1,501 @@
+customer_id,customer_name,recency,frequency,monetary,r_score,f_score,m_score,rfm_score,segment
+CUST-0500,Phillip Berry,3,23,23374.37,5,5,5,15,Champions
+CUST-0075,Amy Silva,7,23,25733.079999999998,5,5,5,15,Champions
+CUST-0060,John Daniel,9,28,24976.59,5,5,5,15,Champions
+CUST-0448,Shelly Spencer,2,24,29697.989999999998,5,5,5,15,Champions
+CUST-0422,Maria Jones,1,25,23331.85,5,5,5,15,Champions
+CUST-0399,Ashley Hicks,10,26,30739.83,5,5,5,15,Champions
+CUST-0100,Stephen Mckee,8,22,27049.5,5,5,5,15,Champions
+CUST-0236,Kathryn Snyder,9,26,23161.57,5,5,5,15,Champions
+CUST-0463,Riley Bryant,8,22,25835.76,5,5,5,15,Champions
+CUST-0266,Joshua Reed,3,24,31297.579999999998,5,5,5,15,Champions
+CUST-0176,Alex Hernandez,9,24,25086.71,5,5,5,15,Champions
+CUST-0156,Michelle Brown,8,29,25968.739999999998,5,5,5,15,Champions
+CUST-0462,Eric Williams,3,22,28837.07,5,5,5,15,Champions
+CUST-0285,Stephanie Williams,5,28,40117.33,5,5,5,15,Champions
+CUST-0057,Timothy Duncan,21,22,23165.15,4,5,5,14,Champions
+CUST-0459,Aaron Miller,10,19,22382.09,5,4,5,14,Champions
+CUST-0455,Alfred Galvan,4,20,26503.83,5,4,5,14,Champions
+CUST-0002,Noah Rhodes,4,21,25134.37,5,4,5,14,Champions
+CUST-0001,Allison Hill,1,20,26945.449999999997,5,4,5,14,Champions
+CUST-0004,Daniel Wagner,12,26,34704.89,4,5,5,14,Champions
+CUST-0115,Garrett Lin,12,23,24306.45,4,5,5,14,Champions
+CUST-0200,Nathan Freeman,11,23,24014.66,4,5,5,14,Champions
+CUST-0141,Cheyenne Horton,11,24,23836.53,4,5,5,14,Champions
+CUST-0165,Michael Powell,7,24,19667.350000000002,5,5,4,14,Champions
+CUST-0356,Jesse Perez,13,23,23139.64,4,5,5,14,Champions
+CUST-0489,Bobby Guerrero,13,26,34259.64,4,5,5,14,Champions
+CUST-0198,Spencer Haynes,6,22,21322.1,5,5,4,14,Champions
+CUST-0296,John Young,1,22,20196.47,5,5,4,14,Champions
+CUST-0346,Theresa Williams,1,22,20752.33,5,5,4,14,Champions
+CUST-0402,Craig Morrison,13,25,33628.25,4,5,5,14,Champions
+CUST-0093,Denise Jacobs,14,31,28720.79,4,5,5,14,Champions
+CUST-0098,Deborah Figueroa,15,22,25106.78,4,5,5,14,Champions
+CUST-0102,Cameron Parker,18,27,25455.06,4,5,5,14,Champions
+CUST-0429,Robin Santiago,2,23,20128.43,5,5,4,14,Champions
+CUST-0496,Lawrence Harrington,10,22,19099.989999999998,5,5,4,14,Champions
+CUST-0130,Megan Orr,15,23,25096.59,4,5,5,14,Champions
+CUST-0363,Bryan Gomez,12,23,22611.329999999998,4,5,5,14,Champions
+CUST-0476,Julie Dominguez,6,21,23012.48,5,4,5,14,Champions
+CUST-0260,Mrs. Kristen Reyes,12,23,27799.28,4,5,5,14,Champions
+CUST-0263,Timothy Romero,13,26,27494.79,4,5,5,14,Champions
+CUST-0470,Jeanette Harrison,19,24,22585.93,4,5,5,14,Champions
+CUST-0333,Jordan Bates,6,20,19165.07,5,4,4,13,Champions
+CUST-0140,Angel Perry,2,18,25507.21,5,3,5,13,Loyal Customers
+CUST-0162,Jennifer Adkins,15,23,20082.54,4,5,4,13,Champions
+CUST-0184,Ashley Barton,30,22,24798.9,3,5,5,13,Loyal Customers
+CUST-0319,Stephen Hoffman,7,21,18631.54,5,4,4,13,Champions
+CUST-0248,Frank Cordova,17,23,19548.99,4,5,4,13,Champions
+CUST-0241,Andrew Avila,33,26,24533.64,3,5,5,13,Loyal Customers
+CUST-0318,Ashley Hall,5,21,19391.210000000003,5,4,4,13,Champions
+CUST-0164,Jeffrey Johnson,22,27,32845.72,3,5,5,13,Loyal Customers
+CUST-0317,Lauren Carson,32,26,23003.66,3,5,5,13,Loyal Customers
+CUST-0197,Daniel Salinas,24,28,26520.48,3,5,5,13,Loyal Customers
+CUST-0360,Ronald Davis,4,20,19627.41,5,4,4,13,Champions
+CUST-0103,Rebecca Valencia,8,19,22726.0,5,3,5,13,Loyal Customers
+CUST-0044,Anthony Humphrey,3,19,22947.67,5,3,5,13,Loyal Customers
+CUST-0095,John Whitehead,24,26,30258.59,3,5,5,13,Loyal Customers
+CUST-0038,Cassandra Gaines,26,26,24446.45,3,5,5,13,Loyal Customers
+CUST-0037,Sherri Baker,2,22,18934.01,5,4,4,13,Champions
+CUST-0018,Derek Zuniga,23,29,35912.659999999996,3,5,5,13,Loyal Customers
+CUST-0243,Kevin Walters,14,20,26925.92,4,4,5,13,Champions
+CUST-0485,Jasmine Beltran,32,24,26346.89,3,5,5,13,Loyal Customers
+CUST-0250,Kimberly Gutierrez,16,22,20069.47,4,5,4,13,Champions
+CUST-0239,Sara Johnston,22,23,26850.739999999998,3,5,5,13,Loyal Customers
+CUST-0473,Lori Ingram,34,22,29860.01,3,5,5,13,Loyal Customers
+CUST-0225,Matthew Moore,26,26,23410.23,3,5,5,13,Loyal Customers
+CUST-0232,Susan Serrano,2,24,15451.86,5,5,3,13,Loyal Customers
+CUST-0213,Melissa Martinez,8,19,20511.73,5,4,4,13,Champions
+CUST-0265,Yvonne Burns,14,21,22083.57,4,4,5,13,Champions
+CUST-0444,Holly Valentine,14,20,23676.0,4,4,5,13,Champions
+CUST-0389,Sandra Drake,20,19,26748.23,4,4,5,13,Champions
+CUST-0382,Paul Wilson,7,19,19952.920000000002,5,4,4,13,Champions
+CUST-0114,Crystal Johnson,22,27,23139.09,3,5,5,13,Loyal Customers
+CUST-0055,Shannon Jones,6,22,15028.78,5,5,3,13,Loyal Customers
+CUST-0053,Crystal Robinson,25,22,25204.19,3,5,5,13,Loyal Customers
+CUST-0099,Jessica Smith,14,21,24037.97,4,4,5,13,Champions
+CUST-0068,Carol Tucker,25,24,26726.68,3,5,5,13,Loyal Customers
+CUST-0116,Diana May,6,21,20810.01,5,4,4,13,Champions
+CUST-0110,Sharon Cochran,18,21,27283.91,4,4,5,13,Champions
+CUST-0398,Gary Jackson,33,24,23412.83,3,5,5,13,Loyal Customers
+CUST-0407,Lori Hernandez,18,20,24909.06,4,4,5,13,Champions
+CUST-0384,Mr. Andrew Foster,49,27,23959.53,2,5,5,12,At Risk
+CUST-0113,Julia Torres,43,25,23767.23,2,5,5,12,At Risk
+CUST-0109,Evelyn Galvan,40,24,25343.81,2,5,5,12,At Risk
+CUST-0129,Cameron Fisher,44,25,31506.41,2,5,5,12,At Risk
+CUST-0433,Travis Tucker,7,18,20174.61,5,3,4,12,Loyal Customers
+CUST-0072,Whitney Peters,48,27,22573.06,2,5,5,12,At Risk
+CUST-0454,Cynthia Vang,6,18,18986.02,5,3,4,12,Loyal Customers
+CUST-0283,Jessica Garcia,14,20,21819.57,4,4,4,12,Champions
+CUST-0412,Lisa Hunter,21,20,18726.92,4,4,4,12,Champions
+CUST-0133,Mary Marshall,2,19,20092.36,5,3,4,12,Loyal Customers
+CUST-0003,Angie Henderson,15,21,19187.620000000003,4,4,4,12,Champions
+CUST-0122,Kenneth Scott,4,22,13378.86,5,5,2,12,Loyal Customers
+CUST-0425,Felicia Aguilar,21,21,17777.47,4,4,4,12,Champions
+CUST-0420,Jake Campbell,5,22,12379.36,5,5,2,12,Loyal Customers
+CUST-0096,Anna Henderson,25,22,18513.63,3,5,4,12,Loyal Customers
+CUST-0126,Erin Edwards,65,25,25232.690000000002,2,5,5,12,At Risk
+CUST-0048,Shane Henderson,37,24,28617.63,2,5,5,12,At Risk
+CUST-0089,Lisa Archer,10,25,13026.03,5,5,2,12,Loyal Customers
+CUST-0085,Zachary Ferrell,59,25,23448.99,2,5,5,12,At Risk
+CUST-0097,Aaron Wise,11,21,18317.79,4,4,4,12,Champions
+CUST-0012,Jamie Arnold,50,24,22485.92,2,5,5,12,At Risk
+CUST-0249,Jose Travis,18,19,18715.17,4,4,4,12,Champions
+CUST-0259,Denise Davenport,11,21,20414.91,4,4,4,12,Champions
+CUST-0022,Patty Perez,8,18,19130.24,5,3,4,12,Loyal Customers
+CUST-0324,Brandy Chavez,45,24,28851.66,2,5,5,12,At Risk
+CUST-0313,Shannon Ramsey,29,22,20065.28,3,5,4,12,Loyal Customers
+CUST-0187,Jonathan Peterson,11,22,16869.75,4,5,3,12,Loyal Customers
+CUST-0309,Kiara Mcintyre,4,20,16746.95,5,4,3,12,Loyal Customers
+CUST-0158,Jason Stein,4,21,16741.29,5,4,3,12,Loyal Customers
+CUST-0168,Alyssa Day,41,23,24254.05,2,5,5,12,At Risk
+CUST-0302,Heather Fields,21,21,20694.04,4,4,4,12,Champions
+CUST-0169,Joel Williams,18,21,18908.91,4,4,4,12,Champions
+CUST-0339,Scott Thomas,24,19,22097.059999999998,3,4,5,12,Loyal Customers
+CUST-0268,Colin Terry,15,21,17895.84,4,4,4,12,Champions
+CUST-0227,Kirk Carter,11,18,24259.82,4,3,5,12,Loyal Customers
+CUST-0205,Erin Warner,6,19,18852.510000000002,5,3,4,12,Loyal Customers
+CUST-0209,Dr. William Warren,3,24,13343.630000000001,5,5,2,12,Loyal Customers
+CUST-0211,Christopher Smith,50,25,23547.8,2,5,5,12,At Risk
+CUST-0223,Elizabeth Oliver Dds,19,20,17797.55,4,4,4,12,Champions
+CUST-0222,Jeremy Dalton,14,23,15318.24,4,5,3,12,Loyal Customers
+CUST-0375,Charles Schultz,6,19,16839.95,5,4,3,12,Loyal Customers
+CUST-0344,Nichole Alvarez,11,18,22663.83,4,3,5,12,Loyal Customers
+CUST-0337,Daniel Kane,29,19,22934.559999999998,3,4,5,12,Loyal Customers
+CUST-0252,Olivia Harris,35,22,17289.89,3,5,3,11,Loyal Customers
+CUST-0221,Courtney Mills,2,13,22922.12,5,1,5,11,New / Promising
+CUST-0271,Jasmin Alvarado,29,21,20649.21,3,4,4,11,Loyal Customers
+CUST-0290,Briana Murray,57,19,25616.56,2,4,5,11,At Risk
+CUST-0274,Shelly Alexander,10,17,16793.44,5,3,3,11,Loyal Customers
+CUST-0275,Joyce Bowen,8,20,12432.37,5,4,2,11,Loyal Customers
+CUST-0036,Jeffrey Chavez,7,19,16056.99,5,3,3,11,Loyal Customers
+CUST-0041,Paula Moreno,19,15,24663.25,4,2,5,11,New / Promising
+CUST-0204,Joseph Coleman,71,23,25492.61,1,5,5,11,At Risk
+CUST-0437,Ralph Anderson,9,17,15554.619999999999,5,3,3,11,Loyal Customers
+CUST-0070,William Baker,11,19,20056.98,4,3,4,11,Loyal Customers
+CUST-0071,Jordan Henderson,18,18,19895.0,4,3,4,11,Loyal Customers
+CUST-0440,Jason Rhodes,19,22,12544.33,4,5,2,11,Loyal Customers
+CUST-0431,Maria Henderson,17,19,17132.64,4,4,3,11,Loyal Customers
+CUST-0492,Heather Bolton,36,19,18590.850000000002,3,4,4,11,Loyal Customers
+CUST-0052,Danny Morgan,4,15,18975.64,5,2,4,11,New / Promising
+CUST-0077,Angela Lopez,1,21,13255.53,5,4,2,11,Loyal Customers
+CUST-0388,James Padilla,17,17,18717.09,4,3,4,11,Loyal Customers
+CUST-0395,Tamara Davis,23,24,15215.89,3,5,3,11,Loyal Customers
+CUST-0498,James Bradley,31,21,21037.88,3,4,4,11,Loyal Customers
+CUST-0007,Abigail Shaffer,10,16,18923.079999999998,5,2,4,11,New / Promising
+CUST-0452,Courtney Hayes,21,17,21872.76,4,3,4,11,Loyal Customers
+CUST-0300,Amber Obrien,24,17,31552.71,3,3,5,11,Loyal Customers
+CUST-0199,Adam Vaughan,52,21,28306.81,2,4,5,11,At Risk
+CUST-0189,Madison Poole,2,19,15673.43,5,3,3,11,Loyal Customers
+CUST-0143,Patricia Rodriguez,57,20,24430.260000000002,2,4,5,11,At Risk
+CUST-0305,Maria Parker,27,19,19256.510000000002,3,4,4,11,Loyal Customers
+CUST-0150,Stephanie Manning,8,19,16280.22,5,3,3,11,Loyal Customers
+CUST-0166,John Anderson,6,16,18417.23,5,2,4,11,New / Promising
+CUST-0373,Ellen Morgan,49,19,23876.47,2,4,5,11,At Risk
+CUST-0351,Ana Hill,3,19,13344.32,5,4,2,11,Loyal Customers
+CUST-0372,Debra White,35,24,17768.84,3,5,3,11,Loyal Customers
+CUST-0065,Jessica Callahan,15,22,14328.65,4,5,2,11,Loyal Customers
+CUST-0426,Gregory Ponce,45,26,21128.29,2,5,4,11,At Risk
+CUST-0081,Kelly Donovan,22,19,23807.920000000002,3,3,5,11,Loyal Customers
+CUST-0419,Jeffrey Mills,27,17,21962.19,3,3,5,11,Loyal Customers
+CUST-0087,Shirley Suarez,14,17,23688.120000000003,4,2,5,11,New / Promising
+CUST-0424,Mary Escobar,12,21,17389.94,4,4,3,11,Loyal Customers
+CUST-0128,Jason Powell,23,24,17147.14,3,5,3,11,Loyal Customers
+CUST-0415,Erica Alvarez,3,18,16602.14,5,3,3,11,Loyal Customers
+CUST-0383,Douglas Gregory,63,22,20981.079999999998,2,5,4,11,At Risk
+CUST-0014,Michele Williams,11,19,20133.23,4,3,4,11,Loyal Customers
+CUST-0021,Margaret Hawkins Dds,41,24,21104.13,2,5,4,11,At Risk
+CUST-0040,Brittany Farmer,5,16,20789.41,5,2,4,11,New / Promising
+CUST-0240,Yvonne Chambers,25,20,19363.89,3,4,4,11,Loyal Customers
+CUST-0279,Shannon James,5,20,14749.04,5,4,2,11,Loyal Customers
+CUST-0218,Mark Brown,4,20,14159.81,5,4,2,11,Loyal Customers
+CUST-0286,Elaine Brooks,65,23,18434.579999999998,2,5,4,11,At Risk
+CUST-0151,David Wright,58,24,21058.06,2,5,4,11,At Risk
+CUST-0142,David Douglas Jr.,72,23,22739.79,1,5,5,11,At Risk
+CUST-0152,Pamela Boyd,2,22,12026.98,5,5,1,11,Loyal Customers
+CUST-0327,Brett Burns,13,18,20116.56,4,3,4,11,Loyal Customers
+CUST-0310,Dawn Summers,2,17,15410.460000000001,5,3,3,11,Loyal Customers
+CUST-0196,Allen Rosales,5,18,17657.18,5,3,3,11,Loyal Customers
+CUST-0192,Karen Graham,2,20,14596.82,5,4,2,11,Loyal Customers
+CUST-0182,Tina Sanders,17,17,18369.27,4,3,4,11,Loyal Customers
+CUST-0173,Joshua Cooke,53,24,20148.09,2,5,4,11,At Risk
+CUST-0445,Mrs. Diane Reyes,49,18,22917.36,2,3,5,10,At Risk
+CUST-0457,Dustin Gallegos,26,20,17747.74,3,4,3,10,Loyal Customers
+CUST-0456,Marie Moody,11,20,14452.74,4,4,2,10,Loyal Customers
+CUST-0449,Ryan Rosales,61,18,22369.760000000002,2,3,5,10,At Risk
+CUST-0430,Nancy Jennings,16,17,17776.170000000002,4,3,3,10,Loyal Customers
+CUST-0497,Austin Osborne,25,18,21314.41,3,3,4,10,Loyal Customers
+CUST-0006,Connie Lawrence,96,20,24635.54,1,4,5,10,At Risk
+CUST-0083,Michael Evans,15,21,12708.529999999999,4,4,2,10,Loyal Customers
+CUST-0066,Amber Kidd,49,19,25434.45,2,3,5,10,At Risk
+CUST-0104,Christine Wright,2,17,17094.79,5,2,3,10,New / Promising
+CUST-0092,Brian Rodriguez,23,21,16189.08,3,4,3,10,Loyal Customers
+CUST-0063,Connor West,7,16,15132.76,5,2,3,10,New / Promising
+CUST-0050,Eric Carney,63,21,19016.64,2,4,4,10,At Risk
+CUST-0441,Jeremy Mitchell,12,16,20297.45,4,2,4,10,New / Promising
+CUST-0450,Phillip Nelson,9,17,14080.98,5,3,2,10,Loyal Customers
+CUST-0432,Jack White,57,20,21045.41,2,4,4,10,At Risk
+CUST-0117,William Herrera,21,21,12618.380000000001,4,4,2,10,Loyal Customers
+CUST-0108,Sierra Johnson,18,17,19103.66,4,2,4,10,New / Promising
+CUST-0401,Robin Young,45,19,17947.43,2,4,4,10,At Risk
+CUST-0417,Gwendolyn Klein,13,20,13345.28,4,4,2,10,Loyal Customers
+CUST-0397,Jennifer Collins,67,22,17842.36,1,5,4,10,At Risk
+CUST-0408,Jeremy Turner,47,19,20386.41,2,4,4,10,At Risk
+CUST-0137,Robert Potter,28,17,20708.07,3,3,4,10,Loyal Customers
+CUST-0329,Jeremy Sampson,30,18,21563.48,3,3,4,10,Loyal Customers
+CUST-0340,David Thompson,67,23,20639.84,1,5,4,10,At Risk
+CUST-0386,Chad Scott,101,20,26478.88,1,4,5,10,At Risk
+CUST-0368,Holly Farmer,54,19,19299.18,2,4,4,10,At Risk
+CUST-0366,Kenneth Lewis,14,19,13746.39,4,4,2,10,Loyal Customers
+CUST-0153,Denise Jones,8,20,12079.68,5,4,1,10,Loyal Customers
+CUST-0144,Christopher Rubio,12,18,15589.72,4,3,3,10,Loyal Customers
+CUST-0308,Carlos Ryan,31,18,20506.5,3,3,4,10,Loyal Customers
+CUST-0154,Devon Flores,73,23,21915.77,1,5,4,10,At Risk
+CUST-0178,Michael Wang,3,20,8741.81,5,4,1,10,Loyal Customers
+CUST-0177,Michael Elliott,1,16,15795.7,5,2,3,10,New / Promising
+CUST-0186,Dr. Hannah Patterson,191,21,27751.84,1,4,5,10,At Risk
+CUST-0180,Robert Oconnell,3,16,16284.83,5,2,3,10,New / Promising
+CUST-0273,Jonathan Lawrence,80,20,25392.61,1,4,5,10,At Risk
+CUST-0284,Shelia Wallace,7,19,11253.08,5,4,1,10,Loyal Customers
+CUST-0224,Theresa Clark,47,19,18114.4,2,4,4,10,At Risk
+CUST-0219,Justin Torres,31,23,13170.99,3,5,2,10,Loyal Customers
+CUST-0267,Kimberly Gibson,36,19,16658.41,3,4,3,10,Loyal Customers
+CUST-0207,Bryan Herrera,28,19,20869.29,3,3,4,10,Loyal Customers
+CUST-0226,Benjamin Smith,33,17,21823.39,3,3,4,10,Loyal Customers
+CUST-0253,Tanya Kim,74,22,19677.7,1,5,4,10,At Risk
+CUST-0488,Samantha Gardner,19,17,16799.94,4,3,3,10,Loyal Customers
+CUST-0237,Andrew Reynolds,30,19,17617.98,3,4,3,10,Loyal Customers
+CUST-0483,Evelyn Martinez,7,18,13323.56,5,3,2,10,Loyal Customers
+CUST-0031,Rebecca Henderson,19,15,18891.15,4,2,4,10,New / Promising
+CUST-0005,Cristian Santos,27,18,17233.52,3,3,3,9,Loyal Customers
+CUST-0091,Matthew Mcmillan,58,21,17548.329999999998,2,4,3,9,At Risk
+CUST-0046,Philip Cannon,116,20,19092.23,1,4,4,9,At Risk
+CUST-0008,Gina Moore,21,15,15756.06,4,2,3,9,New / Promising
+CUST-0019,Lisa Jackson,22,18,17458.19,3,3,3,9,Loyal Customers
+CUST-0421,George Harper,56,19,16212.09,2,4,3,9,At Risk
+CUST-0084,Paul Jones,6,16,13911.5,5,2,2,9,New / Promising
+CUST-0082,Mike Allen,49,17,22774.420000000002,2,2,5,9,Needs Attention
+CUST-0080,Lisa Barnes,6,16,14177.5,5,2,2,9,New / Promising
+CUST-0086,Daniel Baker,9,13,17643.89,5,1,3,9,New / Promising
+CUST-0295,Ryan Gonzalez,44,17,19560.53,2,3,4,9,At Risk
+CUST-0254,Barbara Dudley,54,21,15903.630000000001,2,4,3,9,At Risk
+CUST-0251,Isaiah Avila,4,16,12511.1,5,2,2,9,New / Promising
+CUST-0217,Rodney Morales,3,14,17563.25,5,1,3,9,New / Promising
+CUST-0261,Katie Suarez,38,21,17080.57,2,4,3,9,At Risk
+CUST-0208,Cathy Robinson,63,19,21846.899999999998,2,3,4,9,At Risk
+CUST-0206,David Martinez,30,22,9411.6,3,5,1,9,Loyal Customers
+CUST-0235,Michael Lyons,102,19,17778.39,1,4,4,9,At Risk
+CUST-0280,Nathan Malone,27,19,12372.62,3,4,2,9,Loyal Customers
+CUST-0293,Jeremy Reed,65,21,15876.56,2,4,3,9,At Risk
+CUST-0292,Stephanie Byrd,50,18,17923.79,2,3,4,9,At Risk
+CUST-0255,Cynthia Moore,12,16,15433.61,4,2,3,9,New / Promising
+CUST-0289,Lisa Allen,51,17,19396.44,2,3,4,9,At Risk
+CUST-0160,Jamie Smith,112,19,22203.7,1,3,5,9,At Risk
+CUST-0281,Amanda Jones,27,17,15906.21,3,3,3,9,Loyal Customers
+CUST-0297,Laura Haney,2,14,14799.95,5,1,3,9,New / Promising
+CUST-0216,Anthony Everett,14,16,15829.63,4,2,3,9,New / Promising
+CUST-0411,Angela Lin,66,18,26241.22,1,3,5,9,At Risk
+CUST-0405,Joann Glass,36,19,14759.74,3,4,2,9,Loyal Customers
+CUST-0303,Megan Le,36,18,16865.47,3,3,3,9,Loyal Customers
+CUST-0367,Courtney Rodriguez,10,15,14744.39,5,2,2,9,New / Promising
+CUST-0325,Natalie Bautista,175,21,19433.02,1,4,4,9,At Risk
+CUST-0323,Johnathan Davis,27,20,13744.26,3,4,2,9,Loyal Customers
+CUST-0316,Jordan Chambers,6,17,9867.710000000001,5,3,1,9,Loyal Customers
+CUST-0315,Richard Smith,20,16,15909.97,4,2,3,9,New / Promising
+CUST-0146,Joyce Solis,16,13,19559.04,4,1,4,9,New / Promising
+CUST-0167,Alyssa Long,28,18,15206.7,3,3,3,9,Loyal Customers
+CUST-0362,Laurie Hoffman,86,20,18156.0,1,4,4,9,At Risk
+CUST-0345,Kayla Rodriguez,40,18,19192.05,2,3,4,9,At Risk
+CUST-0336,Andrea Hubbard,6,15,14289.32,5,2,2,9,New / Promising
+CUST-0009,Gabrielle Davis,33,20,14169.449999999999,3,4,2,9,Loyal Customers
+CUST-0378,Paula Bradley,11,21,11447.43,4,4,1,9,Loyal Customers
+CUST-0073,Brittney Phillips,25,19,17580.41,3,3,3,9,Loyal Customers
+CUST-0442,Joann Ferguson,4,15,14191.960000000001,5,2,2,9,New / Promising
+CUST-0064,Donald Wright,16,18,14587.42,4,3,2,9,Loyal Customers
+CUST-0039,Elizabeth Fowler,23,18,15519.78,3,3,3,9,Loyal Customers
+CUST-0480,Kaylee Hays,2,18,8719.72,5,3,1,9,Loyal Customers
+CUST-0033,Tricia Valencia,16,14,20926.24,4,1,4,9,New / Promising
+CUST-0032,James Ferrell,77,21,17997.96,1,4,4,9,At Risk
+CUST-0069,James Brown,42,19,17802.23,2,3,4,9,At Risk
+CUST-0043,Sherry Decker,76,18,22962.2,1,3,5,9,At Risk
+CUST-0238,David Davis,33,22,10988.23,3,5,1,9,Loyal Customers
+CUST-0120,Jeffrey Chandler,17,17,16828.05,4,2,3,9,New / Promising
+CUST-0123,April Frost,66,22,16824.47,1,5,3,9,At Risk
+CUST-0127,Michelle Evans,14,17,15461.14,4,2,3,9,New / Promising
+CUST-0376,Paul Lewis,26,17,16712.61,3,3,3,9,Loyal Customers
+CUST-0341,Allison Smith,67,19,19499.670000000002,1,4,4,9,At Risk
+CUST-0370,Sabrina Austin,29,16,20353.23,3,2,4,9,Needs Attention
+CUST-0220,Bailey Duran Dds,13,16,14325.08,4,2,2,8,New / Promising
+CUST-0278,Marie Christian,77,19,15741.69,1,4,3,8,At Risk
+CUST-0188,Samantha Garcia,65,18,17432.36,2,3,3,8,At Risk
+CUST-0387,Adam Burgess,24,17,14026.72,3,3,2,8,Loyal Customers
+CUST-0447,Brenda Wright,1,15,6907.79,5,2,1,8,New / Promising
+CUST-0074,Lauren Daniels,13,15,14331.7,4,2,2,8,New / Promising
+CUST-0436,Sophia Johnson,67,21,16878.72,1,4,3,8,At Risk
+CUST-0385,Aimee Turner,49,17,16079.15,2,3,3,8,At Risk
+CUST-0390,Scott Williams,81,19,15499.529999999999,1,4,3,8,At Risk
+CUST-0380,Megan Nelson,3,16,7889.89,5,2,1,8,New / Promising
+CUST-0112,Shannon Walker,71,19,20308.46,1,3,4,8,At Risk
+CUST-0357,Jesse Perry,18,15,14585.74,4,2,2,8,New / Promising
+CUST-0312,Victor Taylor,21,18,11284.75,4,3,1,8,Loyal Customers
+CUST-0358,Jeffery Ortega,24,17,12969.3,3,3,2,8,Loyal Customers
+CUST-0155,Brenda Hall,42,20,13537.09,2,4,2,8,At Risk
+CUST-0145,Amber Wright,5,16,11347.27,5,2,1,8,New / Promising
+CUST-0374,Sergio Knight,53,18,15728.310000000001,2,3,3,8,At Risk
+CUST-0301,Tanner Mitchell Dds,19,18,11912.92,4,3,1,8,Loyal Customers
+CUST-0322,Charles Shah,63,16,17853.5,2,2,4,8,Needs Attention
+CUST-0392,Laura Mckinney,42,21,12659.11,2,4,2,8,At Risk
+CUST-0171,Jamie Walton,15,15,12803.99,4,2,2,8,New / Promising
+CUST-0124,Michelle Harmon,131,18,18466.42,1,3,4,8,At Risk
+CUST-0203,Elizabeth Perkins,36,16,15728.45,3,2,3,8,Needs Attention
+CUST-0451,Brittany Kim,53,17,17655.53,2,3,3,8,At Risk
+CUST-0394,Robert Montgomery,21,15,13800.6,4,2,2,8,New / Promising
+CUST-0304,Sara Fuller,75,17,19515.79,1,3,4,8,At Risk
+CUST-0134,Daniel Kennedy,18,17,11891.619999999999,4,3,1,8,Loyal Customers
+CUST-0058,Richard Aguirre,22,17,15323.85,3,2,3,8,Needs Attention
+CUST-0482,Howard Norman,11,17,10343.68,4,3,1,8,Loyal Customers
+CUST-0472,Richard Cooper,24,18,13832.470000000001,3,3,2,8,Loyal Customers
+CUST-0242,Matthew Moon,2,16,9177.28,5,2,1,8,New / Promising
+CUST-0054,Mark Perez,100,21,16379.08,1,4,3,8,At Risk
+CUST-0465,Jose Allen,78,19,17208.09,1,4,3,8,At Risk
+CUST-0042,Fred Smith,22,16,15774.28,3,2,3,8,Needs Attention
+CUST-0487,Monica Miller,53,18,17215.21,2,3,3,8,At Risk
+CUST-0106,Marc Moore,19,19,11985.33,4,3,1,8,Loyal Customers
+CUST-0078,Megan Young,35,17,14900.98,3,2,3,8,Needs Attention
+CUST-0045,Angelica Tucker,5,15,9356.27,5,2,1,8,New / Promising
+CUST-0276,Matthew Moore,49,17,16279.789999999999,2,3,3,8,At Risk
+CUST-0247,Krista Gibson,19,18,12108.36,4,3,1,8,Loyal Customers
+CUST-0416,Antonio Garcia,1,15,8862.12,5,2,1,8,New / Promising
+CUST-0418,Carrie Wright,2,14,12901.96,5,1,2,8,New / Promising
+CUST-0015,Dylan Miller,6,16,9813.13,5,2,1,8,New / Promising
+CUST-0479,Curtis Williams,34,13,15375.93,3,1,3,7,Needs Attention
+CUST-0471,Veronica King,37,17,12465.69,2,3,2,7,At Risk
+CUST-0034,Nathan Maldonado,30,15,12363.76,3,2,2,7,Needs Attention
+CUST-0468,William Jones,6,11,11999.93,5,1,1,7,New / Promising
+CUST-0474,Evelyn Williams,41,15,16977.94,2,2,3,7,Needs Attention
+CUST-0438,Christopher Guerra,31,16,13755.87,3,2,2,7,Needs Attention
+CUST-0434,Chad Jones,23,14,16703.760000000002,3,1,3,7,Needs Attention
+CUST-0477,Robin Brown,22,18,11343.97,3,3,1,7,Loyal Customers
+CUST-0446,Tracy Montoya,80,16,17953.09,1,2,4,7,Needs Attention
+CUST-0458,Brenda Thornton,33,16,12655.08,3,2,2,7,Needs Attention
+CUST-0118,Ashley Waller,24,17,12340.710000000001,3,2,2,7,Needs Attention
+CUST-0338,Charles Lester,11,15,10855.23,4,2,1,7,New / Promising
+CUST-0135,Rebecca Jackson,46,16,17713.79,2,2,3,7,Needs Attention
+CUST-0147,Victoria Larson,48,19,13396.79,2,3,2,7,At Risk
+CUST-0453,Alexander Brown,17,15,10881.83,4,2,1,7,New / Promising
+CUST-0377,Glen Wood,19,13,12840.89,4,1,2,7,New / Promising
+CUST-0334,Linda Smith,128,17,15189.81,1,3,3,7,At Risk
+CUST-0348,Victor Brown,20,13,12429.24,4,1,2,7,New / Promising
+CUST-0396,Dana Chapman,3,11,6542.049999999999,5,1,1,7,New / Promising
+CUST-0365,Tracy Burke,220,17,15671.289999999999,1,3,3,7,At Risk
+CUST-0311,Dr. Paul Morgan,52,15,15697.31,2,2,3,7,Needs Attention
+CUST-0195,John Bishop,63,14,18758.89,2,1,4,7,Needs Attention
+CUST-0262,Desiree Tyler,68,17,17245.7,1,3,3,7,At Risk
+CUST-0190,Jessica Gross,48,15,16142.76,2,2,3,7,Needs Attention
+CUST-0185,Lindsay Martinez,13,11,12764.61,4,1,2,7,New / Promising
+CUST-0291,David Smith,111,19,13694.95,1,4,2,7,At Risk
+CUST-0201,Melissa Brewer,29,17,9581.09,3,3,1,7,Loyal Customers
+CUST-0256,Kristen Davis,37,15,14857.55,2,2,3,7,Needs Attention
+CUST-0132,Dustin Jordan,21,13,12449.23,4,1,2,7,New / Promising
+CUST-0136,Jose Schultz,67,19,15284.289999999999,1,3,3,7,At Risk
+CUST-0353,Kerry Chavez Dds,59,15,17549.73,2,2,3,7,Needs Attention
+CUST-0371,Allison Hickman,9,14,7151.280000000001,5,1,1,7,New / Promising
+CUST-0047,John Pierce,4,13,10888.26,5,1,1,7,New / Promising
+CUST-0107,Sharon Cherry,11,15,4983.3099999999995,4,2,1,7,New / Promising
+CUST-0090,Aimee Montoya,28,19,11689.1,3,3,1,7,Loyal Customers
+CUST-0413,Julian Conner,53,17,12906.83,2,3,2,7,At Risk
+CUST-0193,Debra Christian,9,10,9851.57,5,1,1,7,New / Promising
+CUST-0404,Kathleen Webster,41,15,15966.57,2,2,3,7,Needs Attention
+CUST-0026,Judy Baker,25,16,14518.29,3,2,2,7,Needs Attention
+CUST-0028,Stephanie Ross,60,18,12446.14,2,3,2,7,At Risk
+CUST-0229,Michael Bradshaw,25,16,13643.33,3,2,2,7,Needs Attention
+CUST-0410,Jesse Brown,5,12,11061.1,5,1,1,7,New / Promising
+CUST-0409,Anthony Romero,152,16,18794.75,1,2,4,7,Needs Attention
+CUST-0088,Christopher Bass,36,17,12572.31,3,2,2,7,Needs Attention
+CUST-0025,Matthew Foster,88,21,12908.37,1,4,2,7,At Risk
+CUST-0017,Holly Wood,265,15,15153.48,1,2,3,6,Needs Attention
+CUST-0020,Carla Gray,139,18,12329.970000000001,1,3,2,6,At Risk
+CUST-0023,Ethan Adams,13,13,8365.33,4,1,1,6,New / Promising
+CUST-0076,Sarah Moore,30,11,13335.35,3,1,2,6,Needs Attention
+CUST-0101,Sandra Aguilar,14,11,7518.57,4,1,1,6,New / Promising
+CUST-0027,Justin Baker,74,17,15569.05,1,2,3,6,Needs Attention
+CUST-0499,Meghan Rush,55,17,11784.96,2,3,1,6,At Risk
+CUST-0094,Christina Walters,74,19,13681.31,1,3,2,6,At Risk
+CUST-0233,Christopher Parker,19,11,9898.26,4,1,1,6,New / Promising
+CUST-0414,Joanna Pacheco,67,16,16065.84,1,2,3,6,Needs Attention
+CUST-0269,Cynthia Rowe,13,9,9567.289999999999,4,1,1,6,New / Promising
+CUST-0228,Michael Warner,56,16,14681.98,2,2,2,6,Lost / Low Value
+CUST-0215,Julie Alexander,37,18,10751.220000000001,2,3,1,6,At Risk
+CUST-0258,Kathleen Moran,61,12,16477.93,2,1,3,6,Needs Attention
+CUST-0105,Richard Henson,35,10,12845.73,3,1,2,6,Needs Attention
+CUST-0427,Jenna Larson,23,13,14197.449999999999,3,1,2,6,Needs Attention
+CUST-0423,Michael Mitchell,21,12,9685.95,4,1,1,6,New / Promising
+CUST-0181,Alexander Collins,46,14,15684.99,2,1,3,6,Needs Attention
+CUST-0277,Wayne Morgan,46,13,15364.18,2,1,3,6,Needs Attention
+CUST-0481,Dawn Mullins,15,14,7713.72,4,1,1,6,New / Promising
+CUST-0460,Ruben Dunn,70,18,12651.3,1,3,2,6,At Risk
+CUST-0466,Jeffrey Mendez,82,17,12288.12,1,3,2,6,At Risk
+CUST-0435,Ashley Wise,55,16,12909.24,2,2,2,6,Lost / Low Value
+CUST-0010,Ryan Munoz,33,11,12971.22,3,1,2,6,Needs Attention
+CUST-0475,Robin Thompson,82,16,17413.59,1,2,3,6,Needs Attention
+CUST-0490,Lance Simmons,126,16,15764.51,1,2,3,6,Needs Attention
+CUST-0478,Judith Carter,36,15,7777.58,3,2,1,6,Needs Attention
+CUST-0493,William Gould,15,10,9963.300000000001,4,1,1,6,New / Promising
+CUST-0494,Mark Cox,19,12,11298.31,4,1,1,6,New / Promising
+CUST-0030,Anthony Rodriguez,21,12,10299.44,4,1,1,6,New / Promising
+CUST-0443,Robert Harrison,70,15,17157.51,1,2,3,6,Needs Attention
+CUST-0400,Hannah Luna,38,14,15954.12,2,1,3,6,Needs Attention
+CUST-0194,Angelica Keith,74,17,14371.86,1,3,2,6,At Risk
+CUST-0299,Keith Jennings,49,16,12711.51,2,2,2,6,Lost / Low Value
+CUST-0202,Ricky Davis Ii,44,15,13683.56,2,2,2,6,Lost / Low Value
+CUST-0257,Susan Murray Md,134,16,17750.95,1,2,3,6,Needs Attention
+CUST-0406,Madison Weber,13,11,10466.18,4,1,1,6,New / Promising
+CUST-0270,Patrick Thornton,18,11,6981.59,4,1,1,6,New / Promising
+CUST-0214,Katherine Salas,18,9,3469.1499999999996,4,1,1,6,New / Promising
+CUST-0231,Jessica Stephens,22,14,14372.509999999998,3,1,2,6,Needs Attention
+CUST-0138,Courtney Gonzalez,123,16,16749.77,1,2,3,6,Needs Attention
+CUST-0121,Larry Dixon,44,15,12648.95,2,2,2,6,Lost / Low Value
+CUST-0320,Connie Brown,114,13,18188.97,1,1,4,6,Needs Attention
+CUST-0328,Trevor Johnson,38,16,12341.98,2,2,2,6,Lost / Low Value
+CUST-0361,Parker Cain,78,14,18077.05,1,1,4,6,Needs Attention
+CUST-0330,Ariana Jennings,20,7,3497.1,4,1,1,6,New / Promising
+CUST-0111,Richard Rodriguez,24,15,10956.54,3,2,1,6,Needs Attention
+CUST-0335,Dana Martinez,110,16,14857.45,1,2,3,6,Needs Attention
+CUST-0342,Cynthia Morris,47,16,12528.95,2,2,2,6,Lost / Low Value
+CUST-0349,James Parks,103,17,12619.26,1,3,2,6,At Risk
+CUST-0016,Brian Ramirez,103,17,12832.539999999999,1,2,2,5,Lost / Low Value
+CUST-0159,Melissa Gates,35,14,10203.49,3,1,1,5,Needs Attention
+CUST-0157,Joshua Perry,25,14,8215.720000000001,3,1,1,5,Needs Attention
+CUST-0288,Carolyn Miller,99,16,12472.529999999999,1,2,2,5,Lost / Low Value
+CUST-0149,Kathy Rivas,42,15,9466.81,2,2,1,5,Lost / Low Value
+CUST-0172,Darlene Miller,116,15,12384.69,1,2,2,5,Lost / Low Value
+CUST-0191,Debra Morton,62,12,12138.2,2,1,2,5,Lost / Low Value
+CUST-0179,Lawrence Adkins,77,15,12500.23,1,2,2,5,Lost / Low Value
+CUST-0246,Donna Landry,23,13,11728.35,3,1,1,5,Needs Attention
+CUST-0230,Lori Guerrero,58,14,12723.69,2,1,2,5,Lost / Low Value
+CUST-0264,Diane Evans,25,13,11639.630000000001,3,1,1,5,Needs Attention
+CUST-0210,Brian Lee,79,15,12120.79,1,2,2,5,Lost / Low Value
+CUST-0024,Tommy Walter,42,16,10043.8,2,2,1,5,Lost / Low Value
+CUST-0321,Susan Turner,61,12,14152.02,2,1,2,5,Lost / Low Value
+CUST-0163,Lindsey Walker,28,13,9704.92,3,1,1,5,Needs Attention
+CUST-0369,Renee Bruce,47,12,14447.119999999999,2,1,2,5,Lost / Low Value
+CUST-0307,Edward Burgess,31,13,10140.54,3,1,1,5,Needs Attention
+CUST-0391,Thomas Atkins,37,15,6282.62,2,2,1,5,Lost / Low Value
+CUST-0125,Helen Jones,27,11,8697.05,3,1,1,5,Needs Attention
+CUST-0139,David Alvarez,43,14,13388.78,2,1,2,5,Lost / Low Value
+CUST-0403,Mary Thompson,23,13,9001.18,3,1,1,5,Needs Attention
+CUST-0170,Daniel Murphy,44,11,13225.83,2,1,2,5,Lost / Low Value
+CUST-0352,Kimberly Nguyen,96,13,15691.039999999999,1,1,3,5,Needs Attention
+CUST-0350,Theodore Jones Jr.,71,17,12094.77,1,3,1,5,At Risk
+CUST-0332,Colton Martinez,31,14,9793.78,3,1,1,5,Needs Attention
+CUST-0428,Emily Bennett,125,14,14833.7,1,1,3,5,Needs Attention
+CUST-0495,Meghan Cisneros,46,14,9034.96,2,2,1,5,Lost / Low Value
+CUST-0381,Karla Ramos,74,13,15364.16,1,1,3,5,Needs Attention
+CUST-0486,Jonathan Glass Md,103,12,16059.45,1,1,3,5,Needs Attention
+CUST-0484,Steve Paul,26,13,8864.84,3,1,1,5,Needs Attention
+CUST-0059,Brent Jordan,79,17,12885.939999999999,1,2,2,5,Lost / Low Value
+CUST-0469,Katie Mcneil,107,15,14386.36,1,2,2,5,Lost / Low Value
+CUST-0464,Taylor Carlson,50,15,10339.06,2,2,1,5,Lost / Low Value
+CUST-0035,Debra Davidson,138,17,11199.16,1,2,1,4,Lost / Low Value
+CUST-0461,Kelsey Rodriguez,160,16,11112.2,1,2,1,4,Lost / Low Value
+CUST-0467,Jason Beck,103,16,7553.34,1,2,1,4,Lost / Low Value
+CUST-0491,Heather Williams,72,13,13415.86,1,1,2,4,Lost / Low Value
+CUST-0051,Jessica Holmes,101,16,11919.619999999999,1,2,1,4,Lost / Low Value
+CUST-0056,Michael Lewis,39,14,8778.06,2,1,1,4,Lost / Low Value
+CUST-0355,Patricia Le,64,12,11059.5,2,1,1,4,Lost / Low Value
+CUST-0343,Anthony Harmon,51,10,7059.450000000001,2,1,1,4,Lost / Low Value
+CUST-0354,Michael Farrell,159,14,12164.84,1,1,2,4,Lost / Low Value
+CUST-0393,Brian Smith,76,16,6752.36,1,2,1,4,Lost / Low Value
+CUST-0379,Anthony Moore,100,12,14671.57,1,1,2,4,Lost / Low Value
+CUST-0049,Joshua Blair,68,16,10258.1,1,2,1,4,Lost / Low Value
+CUST-0175,Nicole Herring,44,12,11767.27,2,1,1,4,Lost / Low Value
+CUST-0212,Denise Mccann,92,13,13406.98,1,1,2,4,Lost / Low Value
+CUST-0245,Shannon Rivera,89,13,14713.33,1,1,2,4,Lost / Low Value
+CUST-0183,Angela Vaughn,79,13,12742.77,1,1,2,4,Lost / Low Value
+CUST-0306,Kevin Oconnor,61,13,12036.57,2,1,1,4,Lost / Low Value
+CUST-0364,Nicole Parrish,56,12,5775.110000000001,2,1,1,4,Lost / Low Value
+CUST-0359,Christian Leblanc,57,12,10319.96,2,1,1,4,Lost / Low Value
+CUST-0326,Patrick Moore,67,13,14208.85,1,1,2,4,Lost / Low Value
+CUST-0331,Vanessa Howard,75,14,12420.52,1,1,2,4,Lost / Low Value
+CUST-0161,Paul Castaneda,109,15,8570.97,1,2,1,4,Lost / Low Value
+CUST-0314,Tracy Ballard,62,13,11799.49,2,1,1,4,Lost / Low Value
+CUST-0174,Matthew Harrington,51,12,11573.76,2,1,1,4,Lost / Low Value
+CUST-0298,William Barrett,83,14,14683.36,1,1,2,4,Lost / Low Value
+CUST-0287,Joseph Knight,101,13,12913.28,1,1,2,4,Lost / Low Value
+CUST-0282,Tammie Bright,43,10,6694.83,2,1,1,4,Lost / Low Value
+CUST-0011,Monica Herrera,112,9,5565.320000000001,1,1,1,3,Lost / Low Value
+CUST-0439,Rhonda Martin,74,12,7083.58,1,1,1,3,Lost / Low Value
+CUST-0067,Tracy House,86,12,11148.3,1,1,1,3,Lost / Low Value
+CUST-0062,Gerald Hensley,199,11,11179.03,1,1,1,3,Lost / Low Value
+CUST-0061,Victoria Garcia,255,14,10333.869999999999,1,1,1,3,Lost / Low Value
+CUST-0119,Victor Baker,85,13,10979.97,1,1,1,3,Lost / Low Value
+CUST-0131,Elizabeth Kelley,75,13,8054.64,1,1,1,3,Lost / Low Value
+CUST-0347,Sharon Boyd,113,13,9373.95,1,1,1,3,Lost / Low Value
+CUST-0148,Stephanie Salazar,115,14,8207.76,1,1,1,3,Lost / Low Value
+CUST-0294,Margaret Coleman,135,7,4464.6900000000005,1,1,1,3,Lost / Low Value
+CUST-0244,Brandon Bailey Md,125,7,4691.92,1,1,1,3,Lost / Low Value
+CUST-0234,Laura Roberts,92,13,5448.9800000000005,1,1,1,3,Lost / Low Value
+CUST-0272,Veronica Simpson,85,12,8491.61,1,1,1,3,Lost / Low Value
+CUST-0079,Steve Sanchez,79,12,12046.49,1,1,1,3,Lost / Low Value
+CUST-0029,Zachary Hicks,164,13,10592.119999999999,1,1,1,3,Lost / Low Value
+CUST-0013,Lisa Hensley,75,14,9118.57,1,1,1,3,Lost / Low Value
